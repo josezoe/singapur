@@ -49,7 +49,6 @@ autoplot(singapur) +
   
 
 
-# Exercise - Dataset vs Model 
 
 # Models
 holttrend = holt(singapur, h = 10)
